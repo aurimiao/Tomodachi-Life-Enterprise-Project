@@ -1,9 +1,4 @@
-# Tomodachi-Life-Modding-Wiki
-This reposity houses all the information gathered about the game files of Tomodachi Life. 
+# Tomodachi-Life-Enterprise-Project
+This reposity houses a majority of the files for the Tomodachi Life Enterprise Mod.
 
-See the `Wiki` page for all the documentation and resources.
-
-## Want to contribute?
-Document the needed information and add it is a PR. 
-
-For more information you can join the [Tomodachi Enterprise Server](https://discord.gg/rWBXDaCYKU)
+Included is a wiki page for all the documentation and resoruces about modding Tomodachi Life.
